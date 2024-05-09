@@ -1,7 +1,9 @@
 ---
 title: "Posts by Category"
-layout: categories
+layout: collection
 permalink: /categories/
+collection: categories
 entries_layout: grid
+classes: wide
 author_profile: true
 ---
